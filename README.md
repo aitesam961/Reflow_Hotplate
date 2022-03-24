@@ -16,7 +16,7 @@ This device is created as a Low-Cost solution for DIY reflow assembly of SMD com
 * PIC16F MCU to control the system
 * PIC programmer Interface
 * I2C LCD Support
-* Detachable design [Click here to see more](https://github.com/maitesam/Reflow_Hotplate/###detachable-design)
+* Detachable design [Click here to see more](https://github.com/maitesam/Reflow_Hotplate/#detachable-design)
 * Temperature Probs
 * UI with LCD and Pushbuttons for controlling the system.
 * Low Cost & Portable
