@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\aites\Documents\KiCad\HotPlate V1.0\HotPlate V1.0.kicad_sch</source>
+    <date>3/24/2022 1:29:14 AM</date>
+    <tool>Eeschema (6.0.4)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>HotPlate</title>
+        <company>aitesam961</company>
+        <rev>V1.0</rev>
+        <date/>
+        <source>HotPlate V1.0.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>26934806-8d73-482d-9ace-39e22ebaa605</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>935cf2dc-9039-44c5-829a-10ccca3cd126</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>10uF</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T</footprint>
+      <libsource lib="Device" part="C_Polarized_Small_US" description="Polarized capacitor, small US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f16e5526-ef4c-4222-a01f-733deeceebd9</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>536b0a3d-85cd-4b6c-ba5a-cc79d51de511</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7efcec62-0945-49a8-ae5a-aa24da4a0762</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2705fbd2-ce56-4707-94a8-cee518bd84e7</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad4a0f47-998e-4478-ba63-28f9e9621e4c</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb625074-8b51-439a-93c6-92637a7aa716</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>22uF</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-7260-28_AVX-M_Pad2.68x6.30mm_HandSolder</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19bd7e2b-d377-4e33-938d-7a35260adcb3</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff233927-4d6d-4aaa-992e-0b8cab2147c0</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ceb5a716-ea6f-41a2-a1a7-b7f1a86a3fea</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1ebc710-c4bd-4432-97e7-18ccc59e4114</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77d7af34-5647-413b-97c5-0824b6506d9d</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3b49483-61ad-47a1-91b9-97ad057cd524</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N5711UR</value>
+      <footprint>Diode_SMD:D_MELF</footprint>
+      <datasheet>https://www.microsemi.com/document-portal/doc_download/131890-lds-0040-1-datasheet</datasheet>
+      <libsource lib="Diode" part="1N5711UR" description="70V 33mA Schottky diode, MELF(DO-213AA)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>758b305f-0305-4e16-82d4-edbfc902ed8c</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N5711UR</value>
+      <footprint>Diode_SMD:D_MELF</footprint>
+      <datasheet>https://www.microsemi.com/document-portal/doc_download/131890-lds-0040-1-datasheet</datasheet>
+      <libsource lib="Diode" part="1N5711UR" description="70V 33mA Schottky diode, MELF(DO-213AA)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ada655dd-b7ca-4d93-a297-a49b20d7a50f</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>2A</value>
+      <footprint>Fuse:Fuse_1206_3216Metric</footprint>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33571a99-1ae1-40d8-bc03-3556bc6d39b5</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Jack-DC</value>
+      <footprint>Connector_BarrelJack:BarrelJack_CUI_PJ-102AH_Horizontal</footprint>
+      <libsource lib="Connector" part="Jack-DC" description="DC Barrel Jack"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5eb1f7ee-9a6a-4ec6-9280-6b1b89d7fdfb</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>CONN_03X22X3_SILK_MALE_PTH</value>
+      <footprint>Connectors:2X3</footprint>
+      <fields>
+        <field name="Field4">CONN-09701</field>
+      </fields>
+      <libsource lib="SparkFun-Connectors" part="CONN_03X22X3_SILK_MALE_PTH" description="Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections   &lt;b&gt;You can populate with any combo of single row headers, but if you'd like an exact match, check these:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/12807&quot;&gt; Header - 2x3 (Male, 0.1&quot;)&lt;/a&gt; (PRT-12807)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/13010&quot;&gt; Header - 2x3 (Female, 0.1&quot;)&lt;/a&gt; (PRT-13010)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/10877&quot;&gt; 2x3 Pin Shrouded Header&lt;/a&gt; (PRT-10877)&lt;/li&gt;&lt;/ul&gt; &lt;b&gt;On any of the 0.1 inch spaced packages, you can populate with these:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/116&quot;&gt; Break Away Headers - Straight&lt;/a&gt; (PRT-00116)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/553&quot;&gt; Break Away Male Headers - Right Angle&lt;/a&gt; (PRT-00553)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/115&quot;&gt; Female Headers&lt;/a&gt; (PRT-00115)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/117&quot;&gt; Break Away Headers - Machine Pin&lt;/a&gt; (PRT-00117)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/743&quot;&gt; Break Away Female Headers - Swiss Machine Pin&lt;/a&gt; (PRT-00743)&lt;/li&gt;&lt;/ul&gt; &lt;b&gt;Special note: the shrouded connector mates well with our 3x2 ribbon cables:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/10651&quot;&gt; Ribbon Crimp Connector - 6-pin (2x3, Female)&lt;/a&gt; (PRT-10651)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.sparkfun.com/products/10646&quot;&gt; Ribbon Cable - 6 wire (15ft)&lt;/a&gt; (PRT-10646)&lt;/li&gt;&lt;/ul&gt;"/>
+      <property name="Field4" value="CONN-09701"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ba6b2444-7332-4a6e-87ef-c970a708ce33</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>B4B-XH-A_LF__SN_</value>
+      <footprint>digikey-footprints:PinHeader_1x4_P2.5mm_Drill1.1mm</footprint>
+      <datasheet>http://www.jst-mfg.com/product/pdf/eng/eXH.pdf</datasheet>
+      <fields>
+        <field name="Category">Connectors, Interconnects</field>
+        <field name="DK_Datasheet_Link">http://www.jst-mfg.com/product/pdf/eng/eXH.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/jst-sales-america-inc/B4B-XH-A(LF)(SN)/455-2249-ND/1651047</field>
+        <field name="Description">CONN HEADER VERT 4POS 2.5MM</field>
+        <field name="Digi-Key_PN">455-2249-ND</field>
+        <field name="Family">Rectangular Connectors - Headers, Male Pins</field>
+        <field name="MPN">B4B-XH-A(LF)(SN)</field>
+        <field name="Manufacturer">JST Sales America Inc.</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_Rectangular-Connectors-Headers-Male-Pins" part="B4B-XH-A_LF__SN_" description="CONN HEADER VERT 4POS 2.5MM"/>
+      <property name="Digi-Key_PN" value="455-2249-ND"/>
+      <property name="MPN" value="B4B-XH-A(LF)(SN)"/>
+      <property name="Category" value="Connectors, Interconnects"/>
+      <property name="Family" value="Rectangular Connectors - Headers, Male Pins"/>
+      <property name="DK_Datasheet_Link" value="http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/jst-sales-america-inc/B4B-XH-A(LF)(SN)/455-2249-ND/1651047"/>
+      <property name="Description" value="CONN HEADER VERT 4POS 2.5MM"/>
+      <property name="Manufacturer" value="JST Sales America Inc."/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1bec5c0b-a6ff-42d9-8cee-f167e63833e1</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>B2B-XH-A_LF__SN_</value>
+      <footprint>digikey-footprints:PinHeader_1x2_P2.5mm_Drill1.1mm</footprint>
+      <datasheet>http://www.jst-mfg.com/product/pdf/eng/eXH.pdf</datasheet>
+      <fields>
+        <field name="Category">Connectors, Interconnects</field>
+        <field name="DK_Datasheet_Link">http://www.jst-mfg.com/product/pdf/eng/eXH.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/jst-sales-america-inc/B2B-XH-A(LF)(SN)/455-2247-ND/1651045</field>
+        <field name="Description">CONN HEADER VERT 2POS 2.5MM</field>
+        <field name="Digi-Key_PN">455-2247-ND</field>
+        <field name="Family">Rectangular Connectors - Headers, Male Pins</field>
+        <field name="MPN">B2B-XH-A(LF)(SN)</field>
+        <field name="Manufacturer">JST Sales America Inc.</field>
+        <field name="Status">Active</field>
+      </fields>
+      <libsource lib="dk_Rectangular-Connectors-Headers-Male-Pins" part="B2B-XH-A_LF__SN_" description="CONN HEADER VERT 2POS 2.5MM"/>
+      <property name="Digi-Key_PN" value="455-2247-ND"/>
+      <property name="MPN" value="B2B-XH-A(LF)(SN)"/>
+      <property name="Category" value="Connectors, Interconnects"/>
+      <property name="Family" value="Rectangular Connectors - Headers, Male Pins"/>
+      <property name="DK_Datasheet_Link" value="http://www.jst-mfg.com/product/pdf/eng/eXH.pdf"/>
+      <property name="DK_Detail_Page" value="/product-detail/en/jst-sales-america-inc/B2B-XH-A(LF)(SN)/455-2247-ND/1651045"/>
+      <property name="Description" value="CONN HEADER VERT 2POS 2.5MM"/>
+      <property name="Manufacturer" value="JST Sales America Inc."/>
+      <property name="Status" value="Active"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b826373-11d5-40c5-8a20-f4ac4c287303</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>DMG1012T</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/ds31783.pdf</datasheet>
+      <libsource lib="Transistor_FET" part="DMG1012T" description="20V Vds, 0.63 Id, N-Channel MOSFET with ESD protection, SOT-523"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3bb8266f-f52e-4d50-a5e0-de6fead648a3</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>3k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fac8000-58fd-45b5-b5ba-faffaef20c6a</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a11bbdc-5fd2-4264-8360-4d9aa6357af3</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c6f922d-5eb8-4ad8-9601-1b501e05b314</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f79df680-ad40-475e-b279-60f28bca2540</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2a2b3c1-0a7a-4eed-8319-498caa66bb15</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fd35343-81f8-4327-9923-2b6634c1a1c1</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d884185-1603-4227-91d0-db86e6945c76</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11fc493d-3a60-439f-8ecf-28a67ed5f665</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push</value>
+      <footprint>Button_Switch_THT:SW_PUSH_6mm</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49689734-c4c6-4b2f-ba6b-54b580779db0</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3036e6d3-1efe-460d-bb29-33522f3c67ea</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12d1945f-4f3f-4a31-9db5-44b0c1a7d949</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28196dc2-5abc-4507-a2e4-1e988a3e087b</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27720684-5611-43a4-b478-653d39f9c111</tstamps>
+    </comp>
+    <comp ref="TP6">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a69695db-e5b0-42f0-883e-2116ae2c0fa8</tstamps>
+    </comp>
+    <comp ref="TP7">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>442eb65e-92c1-4675-a7aa-f19e2dc3d823</tstamps>
+    </comp>
+    <comp ref="TP8">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d16e973-38a8-4eee-9206-3aa7ed1fa77a</tstamps>
+    </comp>
+    <comp ref="TP9">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_Pad_D2.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8a92049-7fb8-41ba-a9e5-c618fd8fc166</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>PIC16F1512-ISS</value>
+      <footprint>Package_SO:SSOP-28_5.3x10.2mm_P0.65mm</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/41624A.pdf</datasheet>
+      <libsource lib="MCU_Microchip_PIC16" part="PIC16F1512-ISS" description="PIC16F1512, 2048W FLASH, 128B SRAM, SSOP-28"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4ff53922-0ff8-4bb0-adeb-e25ec450650e</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>AMS1117-5.0</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.advanced-monolithic.com/pdf/ds1117.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="AMS1117-5.0" description="1A Low Dropout regulator, positive, 5.0V fixed output, SOT-223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a3756a9d-6481-4074-820d-8ac4963505f5</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>LMT85DCK</value>
+      <footprint>Package_TO_SOT_SMD:SOT-353_SC-70-5</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/lmt85-q1.pdf</datasheet>
+      <libsource lib="Sensor_Temperature" part="LMT85DCK" description="Analog temperature sensor, NTC, 0.3C accuracy, -8.2mV/C, -50C to +150C, 1.8 to 5.5V, SC-70-5"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ea5780f6-8095-4661-a440-457bacc00523</tstamps>
+    </comp>
+    <comp ref="X1">
+      <value>16MHz</value>
+      <footprint>Crystal:Crystal_SMD_HC49-SD</footprint>
+      <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="HotPlate V1.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54bc2ecd-8d62-4b68-8df6-b8d4b2808fdc</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Jack-DC">
+      <description>DC Barrel Jack</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>BarrelJack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Jack-DC</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small_US">
+      <description>Polarized capacitor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal">
+      <description>Two pin crystal</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse">
+      <description>Fuse</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N5711UR">
+      <description>70V 33mA Schottky diode, MELF(DO-213AA)</description>
+      <docs>https://www.microsemi.com/document-portal/doc_download/131890-lds-0040-1-datasheet</docs>
+      <footprints>
+        <fp>D?MELF*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N5711UR</field>
+        <field name="Footprint">Diode_SMD:D_MELF</field>
+        <field name="Datasheet">https://www.microsemi.com/document-portal/doc_download/131890-lds-0040-1-datasheet</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Microchip_PIC16" part="PIC16F1512-ISS">
+      <description>PIC16F1512, 2048W FLASH, 128B SRAM, SSOP-28</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/41624A.pdf</docs>
+      <footprints>
+        <fp>DIP*</fp>
+        <fp>PDIP*</fp>
+        <fp>SO*</fp>
+        <fp>SSOP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PIC16F1512-ISS</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/41624A.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vpp/~{MCLR}/RE3" type="input"/>
+        <pin num="2" name="RA0/AN0/~{SS}" type="bidirectional"/>
+        <pin num="3" name="RA1/AN1" type="bidirectional"/>
+        <pin num="4" name="RA2/AN2" type="bidirectional"/>
+        <pin num="5" name="RA3/AN3/Vref+" type="bidirectional"/>
+        <pin num="6" name="RA4/T0CKI" type="bidirectional"/>
+        <pin num="7" name="RA5/AN4/Vcap/~{SS}" type="bidirectional"/>
+        <pin num="8" name="VSS" type="power_in"/>
+        <pin num="9" name="RA7/OSC1/CLKIN" type="bidirectional"/>
+        <pin num="10" name="RA6/OSC2/CLKOUT" type="bidirectional"/>
+        <pin num="11" name="SOSCO/T1CKI/RC0" type="bidirectional"/>
+        <pin num="12" name="SOSCI/CCP2/RC1" type="bidirectional"/>
+        <pin num="13" name="CCP1/AN14/RC2" type="bidirectional"/>
+        <pin num="14" name="SCK/SCL/AN15/RC3" type="bidirectional"/>
+        <pin num="15" name="SDI/SDA/AN16/RC4" type="bidirectional"/>
+        <pin num="16" name="SDO/AN17/RC5" type="bidirectional"/>
+        <pin num="17" name="TX/CK/AN18/RC6" type="bidirectional"/>
+        <pin num="18" name="RX/DT/AN19/RC7" type="bidirectional"/>
+        <pin num="19" name="VSS" type="power_in"/>
+        <pin num="20" name="VDD" type="power_in"/>
+        <pin num="21" name="RB0/AN12/INT/IOC" type="bidirectional"/>
+        <pin num="22" name="RB1/AN10/IOC" type="bidirectional"/>
+        <pin num="23" name="RB2/AN8/IOC" type="bidirectional"/>
+        <pin num="24" name="RB3/AN9/CCP2/IOC" type="bidirectional"/>
+        <pin num="25" name="RB4/AN11/ADOUT/IOC" type="bidirectional"/>
+        <pin num="26" name="RB5/AN13/T1G/IOC" type="bidirectional"/>
+        <pin num="27" name="RB6/ADGRDA/IOC/ICSPCLK/ICDCLK" type="bidirectional"/>
+        <pin num="28" name="RB7/ADGRDB/IOC/ICSPDAT/ICDDAT" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AMS1117-5.0">
+      <description>1A Low Dropout regulator, positive, 5.0V fixed output, SOT-223</description>
+      <docs>http://www.advanced-monolithic.com/pdf/ds1117.pdf</docs>
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AMS1117-5.0</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Sensor_Temperature" part="LMT85DCK">
+      <description>Analog temperature sensor, NTC, 0.3C accuracy, -8.2mV/C, -50C to +150C, 1.8 to 5.5V, SC-70-5</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lmt85-q1.pdf</docs>
+      <footprints>
+        <fp>SC-70-*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LMT85DCK</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-353_SC-70-5</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/lmt85-q1.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vdd" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="output"/>
+        <pin num="4" name="Vdd" type="power_in"/>
+        <pin num="5" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="SparkFun-Connectors" part="CONN_03X22X3_SILK_MALE_PTH">
+      <description>Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections   &lt;b&gt;You can populate with any combo of single row headers, but if you'd like an exact match, check these:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/12807"&gt; Header - 2x3 (Male, 0.1")&lt;/a&gt; (PRT-12807)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/13010"&gt; Header - 2x3 (Female, 0.1")&lt;/a&gt; (PRT-13010)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/10877"&gt; 2x3 Pin Shrouded Header&lt;/a&gt; (PRT-10877)&lt;/li&gt;&lt;/ul&gt; &lt;b&gt;On any of the 0.1 inch spaced packages, you can populate with these:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/116"&gt; Break Away Headers - Straight&lt;/a&gt; (PRT-00116)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/553"&gt; Break Away Male Headers - Right Angle&lt;/a&gt; (PRT-00553)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/115"&gt; Female Headers&lt;/a&gt; (PRT-00115)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/117"&gt; Break Away Headers - Machine Pin&lt;/a&gt; (PRT-00117)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/743"&gt; Break Away Female Headers - Swiss Machine Pin&lt;/a&gt; (PRT-00743)&lt;/li&gt;&lt;/ul&gt; &lt;b&gt;Special note: the shrouded connector mates well with our 3x2 ribbon cables:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/10651"&gt; Ribbon Crimp Connector - 6-pin (2x3, Female)&lt;/a&gt; (PRT-10651)&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.sparkfun.com/products/10646"&gt; Ribbon Cable - 6 wire (15ft)&lt;/a&gt; (PRT-10646)&lt;/li&gt;&lt;/ul&gt;</description>
+      <footprints>
+        <fp>*2X3*</fp>
+        <fp>*2X3*</fp>
+        <fp>*2X3_SMD*</fp>
+        <fp>*2X3-NS*</fp>
+        <fp>*2X3-SHROUDED*</fp>
+        <fp>*2X3_SMT_POSTS*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_03X22X3_SILK_MALE_PTH</field>
+        <field name="Footprint">2X3</field>
+        <field name="Field4">CONN-09701</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="bidirectional"/>
+        <pin num="2" name="2" type="bidirectional"/>
+        <pin num="3" name="3" type="bidirectional"/>
+        <pin num="4" name="4" type="bidirectional"/>
+        <pin num="5" name="5" type="bidirectional"/>
+        <pin num="6" name="6" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="DMG1012T">
+      <description>20V Vds, 0.63 Id, N-Channel MOSFET with ESD protection, SOT-523</description>
+      <docs>https://www.diodes.com/assets/Datasheets/ds31783.pdf</docs>
+      <footprints>
+        <fp>SOT?523*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">DMG1012T</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-523</field>
+        <field name="Datasheet">https://www.diodes.com/assets/Datasheets/ds31783.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dk_Rectangular-Connectors-Headers-Male-Pins" part="B2B-XH-A_LF__SN_">
+      <description>CONN HEADER VERT 2POS 2.5MM</description>
+      <docs>http://www.jst-mfg.com/product/pdf/eng/eXH.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">B2B-XH-A_LF__SN_</field>
+        <field name="Footprint">digikey-footprints:PinHeader_1x2_P2.5mm_Drill1.1mm</field>
+        <field name="Datasheet">http://www.jst-mfg.com/product/pdf/eng/eXH.pdf</field>
+        <field name="Digi-Key_PN">455-2247-ND</field>
+        <field name="MPN">B2B-XH-A(LF)(SN)</field>
+        <field name="Category">Connectors, Interconnects</field>
+        <field name="Family">Rectangular Connectors - Headers, Male Pins</field>
+        <field name="DK_Datasheet_Link">http://www.jst-mfg.com/product/pdf/eng/eXH.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/jst-sales-america-inc/B2B-XH-A(LF)(SN)/455-2247-ND/1651045</field>
+        <field name="Description">CONN HEADER VERT 2POS 2.5MM</field>
+        <field name="Manufacturer">JST Sales America Inc.</field>
+        <field name="Status">Active</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="dk_Rectangular-Connectors-Headers-Male-Pins" part="B4B-XH-A_LF__SN_">
+      <description>CONN HEADER VERT 4POS 2.5MM</description>
+      <docs>http://www.jst-mfg.com/product/pdf/eng/eXH.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">B4B-XH-A_LF__SN_</field>
+        <field name="Footprint">digikey-footprints:PinHeader_1x4_P2.5mm_Drill1.1mm</field>
+        <field name="Datasheet">http://www.jst-mfg.com/product/pdf/eng/eXH.pdf</field>
+        <field name="Digi-Key_PN">455-2249-ND</field>
+        <field name="MPN">B4B-XH-A(LF)(SN)</field>
+        <field name="Category">Connectors, Interconnects</field>
+        <field name="Family">Rectangular Connectors - Headers, Male Pins</field>
+        <field name="DK_Datasheet_Link">http://www.jst-mfg.com/product/pdf/eng/eXH.pdf</field>
+        <field name="DK_Detail_Page">/product-detail/en/jst-sales-america-inc/B4B-XH-A(LF)(SN)/455-2249-ND/1651047</field>
+        <field name="Description">CONN HEADER VERT 4POS 2.5MM</field>
+        <field name="Manufacturer">JST Sales America Inc.</field>
+        <field name="Status">Active</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>D:\D_Program Files\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>D:\D_Program Files\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>D:\D_Program Files\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="MCU_Microchip_PIC16">
+      <uri>D:\D_Program Files\6.0\share\kicad\symbols\/MCU_Microchip_PIC16.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>D:\D_Program Files\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>D:\D_Program Files\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="Sensor_Temperature">
+      <uri>D:\D_Program Files\6.0\share\kicad\symbols\/Sensor_Temperature.kicad_sym</uri>
+    </library>
+    <library logical="SparkFun-Connectors">
+      <uri>D:\D_Program Files\6.0\share\kicad\symbols\/SparkFun-Connectors.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>D:\D_Program Files\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>D:\D_Program Files\6.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
+    </library>
+    <library logical="dk_Rectangular-Connectors-Headers-Male-Pins">
+      <uri>D:\D_Program Files\6.0\share\kicad\symbols\/dk_Rectangular-Connectors-Headers-Male-Pins.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="6" pintype="bidirectional"/>
+      <node ref="J3" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U3" pin="1" pinfunction="Vdd" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="Vdd" pintype="power_in"/>
+    </net>
+    <net code="2" name="DW">
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="SOSCI/CCP2/RC1" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="F_CLK">
+      <node ref="J2" pin="1" pinfunction="1" pintype="bidirectional"/>
+      <node ref="U1" pin="27" pinfunction="RB6/ADGRDA/IOC/ICSPCLK/ICDCLK" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="F_DATA">
+      <node ref="J2" pin="5" pinfunction="5" pintype="bidirectional"/>
+      <node ref="U1" pin="28" pinfunction="RB7/ADGRDB/IOC/ICSPDAT/ICDDAT" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="F_MCLR">
+      <node ref="J2" pin="2" pinfunction="2" pintype="bidirectional"/>
+      <node ref="U1" pin="1" pinfunction="Vpp/~{MCLR}/RE3" pintype="input"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="4" pintype="bidirectional"/>
+      <node ref="J3" pin="1" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U1" pin="8" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U2" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="5" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="7" name="Gate_Trig">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="RA1/AN1" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="RA6/OSC2/CLKOUT" pintype="bidirectional"/>
+      <node ref="X1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="RA7/OSC1/CLKIN" pintype="bidirectional"/>
+      <node ref="X1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="11" name="PGM">
+      <node ref="J2" pin="3" pinfunction="3" pintype="bidirectional"/>
+      <node ref="U1" pin="24" pinfunction="RB3/AN9/CCP2/IOC" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="SCL">
+      <node ref="J3" pin="3" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="SCK/SCL/AN15/RC3" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="SDA">
+      <node ref="J3" pin="4" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="SDI/SDA/AN16/RC4" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="Temp">
+      <node ref="TP7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="RB1/AN10/IOC" pintype="bidirectional"/>
+      <node ref="U3" pin="3" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="15" name="UW">
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="SOSCO/T1CKI/RC0" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="VD">
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="17" name="VDC">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="J4" pin="1" pintype="passive"/>
+      <node ref="J4" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="18" name="V_Div">
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="RB4/AN11/ADOUT/IOC" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="unconnected-(U1-Pad2)">
+      <node ref="U1" pin="2" pinfunction="RA0/AN0/~{SS}" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="unconnected-(U1-Pad4)">
+      <node ref="U1" pin="4" pinfunction="RA2/AN2" pintype="bidirectional"/>
+    </net>
+    <net code="21" name="unconnected-(U1-Pad5)">
+      <node ref="U1" pin="5" pinfunction="RA3/AN3/Vref+" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="unconnected-(U1-Pad6)">
+      <node ref="U1" pin="6" pinfunction="RA4/T0CKI" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="unconnected-(U1-Pad7)">
+      <node ref="U1" pin="7" pinfunction="RA5/AN4/Vcap/~{SS}" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="unconnected-(U1-Pad13)">
+      <node ref="U1" pin="13" pinfunction="CCP1/AN14/RC2" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="unconnected-(U1-Pad16)">
+      <node ref="U1" pin="16" pinfunction="SDO/AN17/RC5" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="unconnected-(U1-Pad17)">
+      <node ref="U1" pin="17" pinfunction="TX/CK/AN18/RC6" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="unconnected-(U1-Pad18)">
+      <node ref="U1" pin="18" pinfunction="RX/DT/AN19/RC7" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="unconnected-(U1-Pad21)">
+      <node ref="U1" pin="21" pinfunction="RB0/AN12/INT/IOC" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="unconnected-(U1-Pad23)">
+      <node ref="U1" pin="23" pinfunction="RB2/AN8/IOC" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="unconnected-(U1-Pad26)">
+      <node ref="U1" pin="26" pinfunction="RB5/AN13/T1G/IOC" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>
