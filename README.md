@@ -66,8 +66,11 @@ The temperature sensor continously reads the temperatures and sends back to the 
  
  
 ## Manufactruring Guidelines
+(Coming soon....)
 ## Assembly
+(Coming soon....)
 ## General Instructions
+(Coming soon....)
 
 
 ### Contributions
@@ -90,9 +93,9 @@ Don't forget to give the project a star! Thanks again!
 * [x] Finalizing The Idea
 * [x] Schematics
 * [x] PCB Design
-* [ ] Firmware Development
+* [x] Firmware Development
 * [ ] Validation & Testing
-* [ ] Documentation
+* [x] Documentation
 * [ ] Future Improvements
 
 
