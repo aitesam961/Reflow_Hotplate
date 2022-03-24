@@ -21,6 +21,16 @@ This device is created as a Low-Cost solution for DIY reflow assembly of SMD com
 * UI with LCD and Pushbuttons for controlling the system.
 * Low Cost & Portable
 
+
+
+<p align="center">
+  <img src="https://github.com/maitesam/Reflow_Hotplate/blob/main/Documentation/PCB_3D_F1.png" width="420">
+  <img src="https://github.com/maitesam/Reflow_Hotplate/blob/main/Documentation/PCB_3D_B2.png" width="450">
+ 
+</p>
+
+
+
 ### What is Reflow Soldering?
 Reflow soldering is a process in which a solder paste (a sticky mixture of powdered solder and flux) is used to temporarily attach one or thousands of tiny electrical components to their contact pads, after which the entire assembly is subjected to controlled heat. The solder paste reflows in a molten state, creating permanent solder joints. Heating may be accomplished by passing the assembly through a reflow oven.
 
@@ -41,7 +51,20 @@ The temperature sensor continously reads the temperatures and sends back to the 
 
 
 ### Detachable Design:
-
+ This board is created considering all the potential issues and major use cases. The advantange is that you can use it either as a whole system by simply plugging the power in and starting the system
+ OR
+ You can detach the controller and Coil area of the PCB (separated by cut-lines).
+ 
+ This makes it highly portable and Tweakers friendly.
+ 
+ 
+ ### Why you may need to do this?
+ The standard PCB material is FR4 which is very reliable in handling higher temperatures but it may not be very long lasting if being used very often.
+ So, I came up with a backup plan and designed it in a way you can just cut the controller portion away from the coil area and use the controller with any OFF the SHELF heating element like alluminum plates.
+ 
+ [Something Like This](https://www.aliexpress.com/item/1005003750400097.html?spm=a2g0o.productlist.0.0.39963ebdQqqQpC&algo_pvid=c2c77609-dce6-45f7-897e-77a6d6d6e77b&algo_exp_id=c2c77609-dce6-45f7-897e-77a6d6d6e77b-8&pdp_ext_f=%7B%22sku_id%22%3A%2212000027037047995%22%7D&pdp_pi=-1%3B166.96%3B-1%3B878.37%40salePrice%3BPKR%3Bsearch-mainSearch)
+ 
+ 
 ## Manufactruring Guidelines
 ## Assembly
 ## General Instructions
