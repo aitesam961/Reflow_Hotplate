@@ -88,6 +88,9 @@ Don't forget to give the project a star! Thanks again!
 
 ## Roadmap
 
+
+
+
 * [x] Concept Proof
 * [x] Research & Information
 * [x] Finalizing The Idea
@@ -97,6 +100,9 @@ Don't forget to give the project a star! Thanks again!
 * [ ] Validation & Testing
 * [x] Documentation
 * [ ] Future Improvements
+
+
+
 
 
 
