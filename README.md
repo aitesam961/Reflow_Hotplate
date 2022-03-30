@@ -4,7 +4,7 @@
 </p>
 A reflow Hotplate for DIY SMD assembly.
 
-## Introduction\;
+## Introduction;
 This device is created as a Low-Cost solution for DIY reflow assembly of SMD components. 
 
 
