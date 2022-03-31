@@ -9,6 +9,7 @@ This device is created as a Low-Cost solution for DIY reflow assembly of SMD com
 
 
 ## Key Features:
+
 * Compact Design
 * 9V-12V DC Input via regular DC Jack 
 * 100mm x 100mm Reflow area
@@ -32,6 +33,7 @@ This device is created as a Low-Cost solution for DIY reflow assembly of SMD com
 
 
 ### What is Reflow Soldering?
+
 Reflow soldering is a process in which a solder paste (a sticky mixture of powdered solder and flux) is used to temporarily attach one or thousands of tiny electrical components to their contact pads, after which the entire assembly is subjected to controlled heat. The solder paste reflows in a molten state, creating permanent solder joints. Heating may be accomplished by passing the assembly through a reflow oven.
 
 
