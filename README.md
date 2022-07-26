@@ -74,9 +74,18 @@ You Can manufacture the PCBs from PCBWay.
 Note: I am not affiliated with PCBWay. However, I just like their service and build quality.
 
 ## Assembly
-(Coming soon....)
+It is super convenient to assemble the Hardware & Components specially if you ordered the Stencil alongwith PCBs.
+After opening the Project in KiCAD, you can just scroll through the BOM and place components with respect to their designators.
+OR
+If you wish to order assembled PCBs, I optimized the BOM to make it super smooth and easy to source components. 
+It is requested to please Open up an Issues if there is any stock outage or Manufacturing Problems.
+
 ## General Instructions
-(Coming soon....)
+* Program the Microcontroller using CP210x/CH340x/FTDI based USB to serial converters.
+* The ARDUINO IDE can be used to Program the Microcontroller.
+* Power Up the Board using a PSU with 6-12V @ 2A Ratings.
+*  Give Hotplate Enough time to Heatup and cooldown. Any Forced Cooldown solution is highly **NOT RECOMMENDED** as it reduces the Life of FR4 material.
+* If Temperatures Higher than 270C are desired, feel free to breakdown/cutdown the Controller portion and Heating Element to avoid controller assembly meltdown. (In such case, desolder the Temperature sensor and extend it to the bottom of the hotplate using wires).
 
 
 ### Contributions
@@ -93,11 +102,7 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 ## Roadmap
-
-
-
-
-* [x] Concept Proof
+* [x] Proof of Concept
 * [x] Research & Information
 * [x] Finalizing The Idea
 * [x] Schematics
@@ -109,10 +114,10 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-
-
-
-
+## Future Plans
+This Hotplate is based on Regular FR4 materials that degrade over time due to excessive heating. In near future, it is desired to implement the same Idea on Alluminum Base PCBs. 
+ISSUE: Alluminum would act as heatsink not letting the plate to heatup/quick cooldowns.
+Community please step in.........
 
 ## License
 
