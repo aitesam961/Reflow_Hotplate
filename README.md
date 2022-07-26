@@ -68,7 +68,11 @@ The temperature sensor continously reads the temperatures and sends back to the 
  
  
 ## Manufactruring Guidelines
-(Coming soon....)
+You Can manufacture the PCBs from PCBWay.
+[Check Out PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=440401)
+
+Note: I am not affiliated with PCBWay. However, I just like their service and build quality.
+
 ## Assembly
 (Coming soon....)
 ## General Instructions
