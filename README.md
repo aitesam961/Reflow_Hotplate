@@ -2,7 +2,7 @@
 
 ### Dear Community! 
 Thanks for your interest in this project. We would like to inform you that we have noticed some bugs in the hardware part of this project. We cannot promise immediate support but we plan on fixing it as soon as we get time out of our living jobs. 
-Appreaciated 
+Appreciated 
 
 <p align="center">
   <img src="https://github.com/maitesam/Reflow_Hotplate/blob/main/Documentation/PCB_S.png" width="950" title="Opening Image">
